@@ -84,6 +84,17 @@ html {
   clip-path: polygon(0 0, 100% 0, calc(100% - #{$cutout-amount}) 100%, 0% 100%);
 }
 
+.key {
+  // display: inline-block;
+  font-size: 0.75em;
+  padding: 0 0.2em;
+  position: relative;
+  top: -2px;
+  vertical-align: middle;
+  border-radius: 6px;
+  border: 2px solid $light;
+}
+
 .hero-content {
   max-width: 700px;
   margin: 40px;
