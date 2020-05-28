@@ -45,6 +45,7 @@ html, body {
   background: url("./images/crucible-1.png");
   background-position-x: 100%;
   background-position-y: initial;
+  image-rendering: pixelated;
 
   max-height: 1080px;
   background-repeat: no-repeat;
@@ -56,12 +57,14 @@ html, body {
   background: url("./images/crucible-1-wide.jpg");
   background-position-x: 79.8%;
   background-position-y: initial;
+  image-rendering: pixelated;
 }
 
 .bg-crucible-2-wide {
   background: url("./images/Screenshot_592.jpg");
   background-position-x: 70%;
   background-position-y: 15%;
+  image-rendering: pixelated;
 }
 
 .backdrop {
