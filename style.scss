@@ -1,11 +1,13 @@
 $dark: #121212;
 $light: #fafafa;
-
 $Exotic: #CEAE33;
 $Legendary: #522F65;
 $Rare: #5076A3;
 $Uncommon: #366F42;
 $Common: #C3BCB4;
+
+$cutout-amount: 150px;
+$button-highlight: $Exotic;
 
 html, body {
   background: $dark;
@@ -15,12 +17,21 @@ html, body {
   margin: 0;
 }
 
-@mixin crisp-image {
+html {
+  font-size: 32px;
+}
+
+@mixin bg-base {
   image-rendering: pixelated;
 
   @media (-webkit-min-device-pixel-ratio: 2) { 
     image-rendering: unset;
   }
+
+  @media screen and (max-width: 760px) {
+    background-position: center center;
+  }
+  
 }
 
 * {
@@ -36,140 +47,14 @@ html, body {
   opacity: .5;
 }
 
-.container {
-  max-width: 1000px;
-  padding: 32px;
-  margin: auto;
-}
-
 .big {
   font-family: neue-haas-grotesk-display, "Comic Sans MS", sans-serif !important;
-  font-size: 96px;
+  font-size: 3rem;
   font-weight: 900;
   line-height: 1.1;
 }
 
-.bg-crucible-1 {
-  @include crisp-image;
-
-  background: url("./images/crucible-1.png");
-  background-position-x: 100%;
-  background-position-y: initial;
-
-  max-height: 1080px;
-  background-repeat: no-repeat;
-}
-
-
-
-.bg-crucible-1-wide {
-  @include crisp-image;
-
-  background: url("./images/crucible-1-wide.jpg");
-  background-position-x: 79.8%;
-  background-position-y: initial;
-}
-
-.bg-crucible-2-wide {
-  @include crisp-image;
-
-  background: url("./images/Screenshot_592.jpg");
-  background-position-x: 70%;
-  background-position-y: 15%;
-}
-
-.bg-crucible-3-wide {
-  @include crisp-image;
-
-  background: url("./images/Screenshot_3.jpg");
-  background-position-x: 70%;
-  background-position-y: 15%;
-}
-
-.bg-crucible-4-wide {
-  @include crisp-image;
-
-  background: url("./images/Screenshot_39.jpg");
-  background-position-x: 70%;
-  background-position-y: 15%;
-}
-
-.backdrop {
-  background: rgba($dark, .8);
-  padding: 100px 0;
-}
-
-
-.new-hero {
-  background: url("./images/crucible-1.png");
-  background-size: cover;
-  background-position: top right;
-  font-size: 32px;
-}
-
-$cutout-amount: 150px;
-
-.message {
-  width: calc(50% + #{$cutout-amount});
-
-  background: rgba($dark, .8);
-  backdrop-filter: blur(5px);
-  overflow: auto;
-  clip-path: polygon(0 0, 100% 0, calc(100% - #{$cutout-amount}) 100%, 0% 100%);
-  text-align: right;
-
-  h1 {
-    margin-top: 0
-  }
-
-  p {
-    margin-bottom: 0;
-  }
-}
-
-.message-container {
-  max-width: 700px;
-  display: inline-block;
-  text-align: left;
-  margin: 100px;
-  margin-right: $cutout-amount;
-}
-
-.half-viewport {
-  min-height: 50vh;
-}
-
-$button-highlight: $Exotic;
-.download-button {
-  color: $dark;
-  background: $light;
-  text-decoration: none;
-  font-size: 22px;
-  padding: 16px 20px;
-  display: inline-block;
-  border-radius: 16px;
-
-  font-family: neue-haas-grotesk-text, sans-serif;
-  font-weight: 500;
-  font-style: normal;
-
-  &:hover {
-    box-shadow: 0 0 0 3px $button-highlight, 0 0 0 0 rgba($button-highlight,0);
-  }
-}
-
-.sub {
-  font-size: .7em;
-  opacity: .7;
-}
-
-// New new!!
-
-.aspect {
-  padding-top: 44.5%;
-}
-
-.new-new-hero {
+.hero {
   position: relative;
 
   h1 { margin-top: 0; }
@@ -177,7 +62,7 @@ $button-highlight: $Exotic;
 
 .hero-overlay {
   width: calc(50% + #{$cutout-amount});
-  height: 100vh;
+  min-height: 100vh;
 
   display: flex;
   justify-content: flex-end;
@@ -187,20 +72,106 @@ $button-highlight: $Exotic;
   backdrop-filter: blur(5px);
 
   clip-path: polygon(0 0, 100% 0, calc(100% - #{$cutout-amount}) 100%, 0% 100%);
-
-  font-size: 32px;
 }
 
 .hero-content {
   max-width: 700px;
-  margin: 32px;
+  margin: 40px;
   margin-right: $cutout-amount;
 }
 
 .app-name {
-  font-size: 44px;
+  font-size: 1.375rem; // 44px;
 }
 
 .logo {
-  height: 44px;
+  height: 1.375rem;
+}
+
+.sub {
+  font-size: .7rem;
+  opacity: .7;
+}
+
+.download-button {
+  color: $dark;
+  background: $light;
+  text-decoration: none;
+  padding: 16px 20px;
+  display: inline-block;
+  border-radius: 16px;
+  font-weight: 500;
+  font-size: .7rem;
+
+  &:hover {
+    box-shadow: 0 0 0 3px $button-highlight, 0 0 0 0 rgba($button-highlight,0);
+  }
+}
+
+
+@media screen and (max-width: 1200px) {
+  html {
+    font-size: 20px;
+  }
+
+  .hero-overlay {
+    min-height: 75vh;
+    width: calc(40% + #{$cutout-amount});
+  }
+}
+
+@media screen and (max-width: 760px) {
+  html {
+    font-size: 20px;
+  }
+
+  .hero-overlay {
+    min-height: initial;
+    width: 100%;
+    clip-path: initial;
+  }
+}
+
+
+.bg-crucible-1 {
+  @include bg-base;
+
+  background: url("./images/crucible-1.png");
+  background-position-x: 100%;
+  background-position-y: initial;
+
+  max-height: 1080px;
+  background-repeat: no-repeat;
+}
+
+.bg-crucible-1-wide {
+  @include bg-base;
+
+  background: url("./images/crucible-1-wide.jpg");
+  background-position-x: 79.8%;
+  background-position-y: initial;
+}
+
+.bg-crucible-2-wide {
+  @include bg-base;
+
+  background: url("./images/Screenshot_592.jpg");
+  background-position-x: 70%;
+  background-position-y: 15%;
+}
+
+.bg-crucible-3-wide {
+  @include bg-base;
+
+  background: url("./images/Screenshot_3.jpg");
+  background-position-x: 70%;
+  background-position-y: 15%;
+}
+
+.bg-crucible-4-wide {
+  @include bg-base;
+
+  background: url("./images/Screenshot_39.jpg");
+  background-position-x: 70%;
+  background-position-y: 15%;
 }
