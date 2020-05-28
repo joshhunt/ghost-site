@@ -176,11 +176,6 @@ $button-highlight: $Exotic;
 }
 
 .hero-overlay {
-  // position: absolute;
-  // top: 0;
-  // left: 0;
-  // bottom: 0;
-
   width: calc(50% + #{$cutout-amount});
   height: 100vh;
 
@@ -200,4 +195,12 @@ $button-highlight: $Exotic;
   max-width: 700px;
   margin: 32px;
   margin-right: $cutout-amount;
+}
+
+.app-name {
+  font-size: 44px;
+}
+
+.logo {
+  height: 44px;
 }
