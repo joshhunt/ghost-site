@@ -3,6 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script
+      src="https://kit.fontawesome.com/fec8bdefd8.js"
+      crossorigin="anonymous"
+    ></script>
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
       rel="stylesheet"
@@ -67,7 +71,7 @@
           <h2 class="app-name">
             <img class="logo" src="./images/44px.png" /> Ghost
           </h2>
-          <h1 class="big">Track all the bounties and triumphs and stuff.</h1>
+          <h1 class="big">Track all the bounties and triumphs.</h1>
           <p>
             Ghost lets you pin bounties, triumphs, and quests on top of Destiny
             2 so you can track them while you play.
@@ -77,27 +81,150 @@
             <a
               class="download-button js-app-btn"
               href="https://www.microsoft.com/store/apps/9P9MC43CJH63"
-              >Download now</a
+              ><span
+                class="fab fa-windows"
+                style="padding-right: 0.25em;"
+              ></span>
+              Download now</a
             >
+
+            <!-- <span class="sub" style="padding-left: 0.5em;"
+              >For Windows 10.</span
+            > -->
           </p>
 
           <p class="sub">
-            For Xbox Game Bar on Windows.
+            <span>Made by</span>
+            <a class="link" href="httsp://twitter.com/joshhunt">joshhunt</a
+            ><span>.</span>
           </p>
         </div>
       </div>
     </div>
 
+    <section>
+      <div class="container">
+        <h2 class="heading">Win + G: Xbox Game Bar.</h2>
+        <p>
+          Ghost is a widget for the Xbox Game Bar on Windows 10. At any time,
+          press Win + G to bring up the overlay.
+        </p>
+      </div>
+
+      <img class="screenshot" src="images/screenshot-1a.png" />
+    </section>
+
+    <section>
+      <div class="container">
+        <h2 class="heading">Heads up display.</h2>
+        <p>
+          Pin Ghost to have it overlay on top of Destiny 2 to monitor your
+          bounties and triumphs as you play.
+        </p>
+      </div>
+
+      <img class="screenshot" src="images/screenshot-3.png" />
+    </section>
+
+    <section>
+      <div class="container">
+        <h2 class="heading">Finish your Triumphs.</h2>
+        <p>
+          Ghost can track Triumphs, as well as Catalysts and Quests. You can't
+          do that in-game (for now).
+        </p>
+      </div>
+
+      <img class="screenshot" src="images/screenshot-2b.png" />
+    </section>
+
+    <section>
+      <div class="container">
+        <h2 class="heading">FAQ.</h2>
+
+        <p class="question">
+          <strong>Q: Is this legit? Will I get banned for using this?</strong>
+        </p>
+        <p class="answer">
+          Yes, this is ✨ legit ✨. No, you will not get banned. This uses the
+          official Xbox Game Bar SDK from Microsoft, a part of the Windows
+          operating system.
+        </p>
+
+        <p class="question">
+          <strong>Q: How often does this update?</strong>
+        </p>
+        <p class="answer">
+          Ghost check with the Destiny API every 30 seconds to get your latest
+          progress, however the Destiny API may send slightly older data
+          sometimes to keep the server running smoothly for everyone. The
+          "Updated at" time in Ghost will tell you the last time it got new,
+          fresh data.
+        </p>
+
+        <p class="question">
+          <strong>Q: This is incredible. I have an idea (or problem).</strong>
+        </p>
+        <p class="answer">
+          Thank you! You can follow me on Twitter
+          <a class="link" href="httsp://twitter.com/joshhunt">@joshhunt</a>
+          where you can pass on any praise and <em>constructive feedback</em>,
+          or
+          <a class="link" href="https://github.com/joshhunt/GhostOverlay/issues"
+            >file an issue</a
+          >
+          on Github.
+        </p>
+
+        <p class="question">
+          <strong>Q: I would like to support you financially.</strong>
+        </p>
+        <p class="answer">
+          That's incredibly generous of you! I have a
+          <a class="link" href="https://www.patreon.com/joshhunt_">Patreon</a>
+          where one of the tiers definitely does not includes feet pics.
+        </p>
+
+        <p class="answer">
+          Additionally, I am a freelance web developer available for hire. If
+          you think you have a good project for me,
+          <a class="link" href="mailto:josh@trtr.co">get in touch</a>.
+        </p>
+      </div>
+    </section>
+
+    <br />
+    <section class="container">
+      <h2 class="heading">Download Ghost.</h2>
+      <p>
+        <a
+          class="download-button js-app-btn"
+          href="https://www.microsoft.com/store/apps/9P9MC43CJH63"
+          ><span class="fab fa-windows" style="padding-right: 0.25em;"></span>
+          Download now</a
+        >
+      </p>
+
+      <p>
+        Made by
+        <a class="link" href="httsp://twitter.com/joshhunt">joshhunt</a>.
+      </p>
+    </section>
+    <br />
+    <br />
+
     <script>
       var BACKGROUND_CLASSES = [
-        "bg-crucible-2-wide",
-        "bg-crucible-3-wide",
-        "bg-crucible-4-wide"
+        "bg-crucible-1",
+        "bg-crucible-2",
+        "bg-crucible-3",
+        "bg-gambit-1",
+        "bg-gambit-2",
       ];
 
       Array.from(document.querySelectorAll(".js-random-background")).forEach(
-        el => {
-          BACKGROUND_CLASSES.forEach(c => el.classList.remove(c));
+        (el) => {
+          BACKGROUND_CLASSES.forEach((c) => el.classList.remove(c));
 
           var randomBg =
             BACKGROUND_CLASSES[
