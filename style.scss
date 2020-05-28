@@ -86,6 +86,14 @@ html, body {
   background-position-y: 15%;
 }
 
+.bg-crucible-4-wide {
+  @include crisp-image;
+
+  background: url("./images/Screenshot_39.jpg");
+  background-position-x: 70%;
+  background-position-y: 15%;
+}
+
 .backdrop {
   background: rgba($dark, .8);
   padding: 100px 0;

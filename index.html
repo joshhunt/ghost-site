@@ -13,7 +13,7 @@
   </head>
 
   <body>
-    <div class="new-new-hero bg-crucible-3-wide">
+    <div class="new-new-hero bg-crucible-4-wide js-random-background">
       <!-- <div class="aspect"></div> -->
 
       <div class="hero-overlay">
@@ -140,6 +140,27 @@
         </div>
       </div>
     </div>
+
+    <script>
+      var BACKGROUND_CLASSES = [
+        "bg-crucible-2-wide",
+        "bg-crucible-3-wide",
+        "bg-crucible-4-wide"
+      ];
+
+      Array.from(document.querySelectorAll(".js-random-background")).forEach(
+        el => {
+          BACKGROUND_CLASSES.forEach(c => el.classList.remove(c));
+
+          var randomBg =
+            BACKGROUND_CLASSES[
+              Math.floor(Math.random() * BACKGROUND_CLASSES.length)
+            ];
+
+          el.classList.add(randomBg);
+        }
+      );
+    </script>
 
     <!-- <script>
       var WEB_LINK = "https://www.microsoft.com/store/apps/9P9MC43CJH63";
