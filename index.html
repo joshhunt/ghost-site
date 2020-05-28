@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.scss" />
+    <link rel="stylesheet" href="https://use.typekit.net/nfc2idm.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div class="new-new-hero bg-crucible-2-wide">
+      <!-- <div class="aspect"></div> -->
+
+      <div class="hero-overlay">
+        <div class="hero-content">
+          <h1 class="big">Track all the bounties and triumphs and stuff.</h1>
+          <p>
+            Ghost lets you pin bounties on top of Destiny 2 so you can track
+            them while you play.
+          </p>
+
+          <p>
+            <a
+              class="download-button js-app-btn"
+              href="https://www.microsoft.com/store/apps/9P9MC43CJH63"
+              >Download now</a
+            >
+          </p>
+
+          <p class="sub">
+            For Xbox Game Bar on Windows.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="new-new-hero bg-crucible-1-wide">
+      <!-- <div class="aspect"></div> -->
+
+      <div class="hero-overlay">
+        <div class="hero-content">
+          <h1 class="big">Track all the bounties and triumphs and stuff.</h1>
+          <p>
+            Ghost lets you pin bounties on top of Destiny 2 so you can track
+            them while you play.
+          </p>
+
+          <p>
+            <a
+              class="download-button js-app-btn"
+              href="https://www.microsoft.com/store/apps/9P9MC43CJH63"
+              >Download now</a
+            >
+          </p>
+
+          <p class="sub">
+            For Xbox Game Bar on Windows.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div class="new-new-hero">
+      <div class="aspect bg-crucible-1-wide"></div>
+
+      <div class="hero-overlay">
+        <div class="hero-content">
+          <h1 class="big">Track all the bounties and triumphs and shit.</h1>
+          <p>
+            Ghost lets you pin bounties on top of Destiny 2 so you can track
+            them while you play.
+          </p>
+
+          <p>
+            <a
+              class="download-button js-app-btn"
+              href="https://www.microsoft.com/store/apps/9P9MC43CJH63"
+              >Download now</a
+            >
+          </p>
+
+          <p class="sub">
+            For Xbox Game Bar on Windows
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div class="new-hero">
+      <div class="message">
+        <div class="message-container">
+          <h1 class="big">Track all the bounties and triumphs and shit.</h1>
+          <p>
+            Ghost lets you pin bounties on top of Destiny 2 so you can track
+            them while you play.
+          </p>
+
+          <p>
+            <a
+              class="download-button js-app-btn"
+              href="https://www.microsoft.com/store/apps/9P9MC43CJH63"
+              >Download now</a
+            >
+          </p>
+
+          <p class="sub">
+            For Xbox Game Bar on Windows
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div class="hero bg-1">
+      <div class="backdrop">
+        <div class="container">
+          <h1 class="big">Track all the bounties and triumphs and shit.</h1>
+          <p>Ghost is widget for Xbox Game Bar on Windows PCs</p>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br /><br />
+    <br />
+    <br />
+
+    <div class="hero bg-1 nhg">
+      <div class="container">
+        <h1 class="big">Track all the bounties and triumphs and shit.</h1>
+        <p>Ghost is widget for Xbox Game Bar on Windows PCs</p>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br /><br />
+    <br />
+    <br />
+
+    <!-- <div class="nhg-only">Using NHG</div> -->
+
+    <!-- <script>
+      document.body.addEventListener("click", () => {
+        document.body.classList.toggle("nhg");
+      });
+    </script> -->
+
+    <script>
+      var WEB_LINK = "https://www.microsoft.com/store/apps/9P9MC43CJH63";
+      var DEEP_LINK = "ms-windows-store://pdp/?productid=9P9MC43CJH63";
+
+      var downloadbutton = document.querySelector(".js-app-btn");
+
+      downloadbutton.addEventListener("click", ev => {
+        ev.preventDefault();
+
+        var appOpened = false;
+
+        window.onblur = () => {
+          appOpened = true;
+        };
+
+        var clickedTm = +new Date();
+
+        setTimeout(function() {
+          if (!appOpened) {
+            window.location = WEB_LINK;
+          }
+        }, 500);
+
+        window.location = DEEP_LINK;
+      });
+    </script>
+  </body>
+</html>
