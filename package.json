@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html --public-url https://ghostoverlay.com/"
+    "start": "parcel *.html --open",
+    "build": "parcel build *.html --public-url https://ghostoverlay.com/"
   },
   "dependencies": {
     "parcel": "^1.12.4",

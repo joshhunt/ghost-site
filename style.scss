@@ -187,6 +187,20 @@ section {
   margin-top: -20px;
 }
 
+.privacy {
+  font-size: 24px;
+
+  h2 {
+    font-size: 1.3em;
+    margin-bottom: 0;
+    margin-top: 1.5em;
+  }
+
+  p {
+    margin: 0.75em 0;
+  }
+}
+
 @media screen and (max-width: 1200px) {
   html {
     font-size: 20px;
