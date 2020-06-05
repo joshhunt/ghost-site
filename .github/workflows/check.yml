@@ -1,4 +1,4 @@
-name: Check, run, and commit scripts
+name: Scheduled checks
 
 on:
   push:
@@ -40,23 +40,16 @@ jobs:
         id: changes-check
         run: echo ::set-output name=dirty::"$(git status --porcelain)"
 
-      - name: Get manifest version
+      - name: Get manifest version file
         id: manifest-version-file
         run: echo "::set-output name=contents::$(cat ./generated-data/version.json)"
 
-      - name: Put manifest version in githunb action variable
-        id: manifest-version
-        uses: gr2m/get-json-paths-action@v1.x
-        with:
-          json: ${{ steps.manifest-version-file.outputs.contents }}
-          version: "version"
-
-      - name: Commit files
+      - name: Commit everything
         if: steps.changes-check.outputs.dirty
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Destiny manifest changed to version ${{ steps.manifest-version.outputs.version }}" -a
+          git commit -m "Destiny manifest changed to version ${{ fromJson(steps.manifest-version.outputs.contents).version }}" -a
 
       - name: Push changes
         if: steps.changes-check.outputs.dirty
