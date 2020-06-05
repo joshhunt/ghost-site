@@ -41,7 +41,7 @@ jobs:
         run: echo ::set-output name=dirty::"$(git status --porcelain)"
 
       - name: Get manifest version file
-        id: manifest-version-file
+        id: manifest-version
         run: echo "::set-output name=contents::$(cat ./generated-data/version.json)"
 
       - name: Commit everything
