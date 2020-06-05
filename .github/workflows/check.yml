@@ -13,19 +13,29 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
+
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 14.x
+
       - run: yarn install
       - run: yarn run build:scripts
       - run: yarn run scripts
+
+      - name: Check if there were changes
+        id: changes-check
+        run: echo ::set-output name=dirty::"$(git status --porcelain)"
+
       - name: Commit files
+        if: steps.changes-check.outputs.dirty
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Manifest changed" -a
+
       - name: Push changes
+        if: steps.changes-check.outputs.dirty
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
