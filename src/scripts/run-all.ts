@@ -1,10 +1,10 @@
-import { manifestHasChanged, saveManifestVersion } from "./lib/manifest-utils";
+import { hasManifestChanged, saveManifestVersion } from "./lib/manifest-utils";
 import buildIconData from "./build-icon-data";
 
 const TASKS = [buildIconData];
 
 async function main() {
-  const shouldRun = await manifestHasChanged();
+  const shouldRun = await hasManifestChanged();
 
   if (!shouldRun) {
     console.log("Manifest has not changed, returning and quitting");

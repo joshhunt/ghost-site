@@ -1,6 +1,6 @@
 import axios from "axios";
 import fs from "fs-extra";
-import { DestinyManifest } from "bungie-api-ts/destiny2";
+import { DestinyManifest, ServerResponse } from "bungie-api-ts/destiny2";
 
 const API_KEY = "c3e5fac733944b058c558a0a0ef15a34";
 const VERSION_FILE_PATH = "./generated-data/version.json";
@@ -24,7 +24,7 @@ export async function getCurrentManifestVersion() {
 }
 
 export async function getApiManifestVersion() {
-  const manifestResp = await axios.get<DestinyManifest>(
+  const manifestResp = await axios.get<ServerResponse<DestinyManifest>>(
     `https://www.bungie.net/Platform/Destiny2/Manifest`,
     {
       headers: {
@@ -33,11 +33,11 @@ export async function getApiManifestVersion() {
     }
   );
 
-  return versionFromManifest(manifestResp.data);
+  return versionFromManifest(manifestResp.data.Response);
 }
 
 let apiVersion: string;
-export async function manifestHasChanged() {
+export async function hasManifestChanged() {
   const currentVersion = await getCurrentManifestVersion();
   apiVersion = await getApiManifestVersion();
 
