@@ -1,11 +1,12 @@
 name: Check, run, and commit scripts
 
 on:
+  push:
   schedule:
     - cron: "*/5 * * * *"
 
 jobs:
-  build:
+  check-run-commit:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,6 +20,18 @@ jobs:
         with:
           node-version: 14.x
 
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        with:
+          path: |
+            ${{ steps.yarn-cache-dir-path.outputs.dir }}
+            **/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+
       - run: yarn install
       - run: yarn run build:scripts
       - run: yarn run scripts
@@ -27,12 +40,23 @@ jobs:
         id: changes-check
         run: echo ::set-output name=dirty::"$(git status --porcelain)"
 
+      - name: Get manifest version
+        id: manifest-version-file
+        run: echo "::set-output name=contents::$(cat ./generated-data/version.json)"
+
+      - name: Put manifest version in githunb action variable
+        id: manifest-version
+        uses: gr2m/get-json-paths-action@v1.x
+        with:
+          json: ${{ steps.manifest-version-file.outputs.contents }}
+          version: "version"
+
       - name: Commit files
         if: steps.changes-check.outputs.dirty
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Manifest changed" -a
+          git commit -m "Destiny manifest changed to version ${{ steps.manifest-version.outputs.version }}" -a
 
       - name: Push changes
         if: steps.changes-check.outputs.dirty
