@@ -1,5 +1,6 @@
 import manifest from "destiny2-manifest/lib/node";
 import fs from "fs-extra";
+import prettier from "prettier";
 import _ from "lodash";
 import {
   manifestMetadataPromise,
@@ -15,6 +16,13 @@ interface IconData {
   localisedIconLabel: string;
   unicodeSymbol: string;
   objectiveHash: number;
+}
+
+function writeJson(dest: string, data: Array<any> | { [key: string]: any }) {
+  return fs.writeFile(
+    dest,
+    prettier.format(JSON.stringify(data, null, 2), { parser: "json" })
+  );
 }
 
 export default async function buildIconData() {
@@ -41,6 +49,10 @@ export default async function buildIconData() {
         const iconLabelMatch = objective.progressDescription?.match(
           ICON_LABEL_RE
         );
+
+        if (!iconLabelMatch || iconLabelMatch.length > 1) {
+          return;
+        }
 
         const iconLabel = iconLabelMatch && iconLabelMatch[0];
         const chObjective = chObjectives.find((v) => v.hash === objective.hash);
@@ -78,6 +90,11 @@ export default async function buildIconData() {
     allLanguageIconData[lang] = iconData;
   }
 
+  await writeJson(
+    "./generated-data/icons-by-label-verbose.json",
+    allLanguageIconData
+  );
+
   const iconsByLanguage = _.mapValues(allLanguageIconData, (icons) => {
     return icons.map((iconData) => [
       iconData.localisedIconLabel,
@@ -85,10 +102,7 @@ export default async function buildIconData() {
     ]);
   });
 
-  await fs.writeFile(
-    "./generated-data/icons-by-label.json",
-    JSON.stringify(iconsByLanguage)
-  );
+  await writeJson("./generated-data/icons-by-label.json", iconsByLanguage);
 
   const byObjectives: Array<Array<string | number>> = [];
 
@@ -105,8 +119,5 @@ export default async function buildIconData() {
     });
   });
 
-  await fs.writeFile(
-    "./generated-data/icons-by-objective.json",
-    JSON.stringify(byObjectives)
-  );
+  await writeJson("./generated-data/icons-by-objective.json", byObjectives);
 }
