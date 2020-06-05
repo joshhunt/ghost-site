@@ -16,7 +16,6 @@ function versionFromManifest(manifest: DestinyManifest) {
 export async function getCurrentManifestVersion() {
   try {
     const versionData: VersionFile = await fs.readJson(VERSION_FILE_PATH);
-
     return versionData.version;
   } catch {
     return null;
