@@ -31,6 +31,56 @@ function Debug() {
   const isLoggedIn = !!authData;
 
   React.useEffect(() => {
+    const authFromLs = JSON.parse(localStorage.getItem("debug-auth") || "{}");
+
+    if (!authFromLs.access_token) {
+      return;
+    }
+
+    authFromLs.accessTokenExpiresDate = new Date(
+      authFromLs.accessTokenExpiresDate
+    );
+    authFromLs.refreshTokenExpiresDate = new Date(
+      authFromLs.refreshTokenExpiresDate
+    );
+
+    const now = new Date();
+
+    if (authFromLs.accessTokenExpiresDate > now) {
+      setAuthData(authFromLs);
+      return;
+    }
+
+    if (authFromLs.refreshTokenExpiresDate > now) {
+      fetchJson("https://www.bungie.net/Platform/App/OAuth/Token/", {
+        method: "post",
+        body: `grant_type=refresh_token&refresh_token=${authFromLs.refresh_token}`,
+        headers: {
+          "content-type": "application/x-www-form-urlencoded",
+          Authorization: AUTH_HEADER,
+        },
+      }).then((newAuthData) => {
+        if (newAuthData.access_token) {
+          const now = new Date();
+
+          newAuthData.accessTokenExpiresDate = new Date().setSeconds(
+            now.getSeconds() + newAuthData.expires_in
+          );
+          newAuthData.refreshTokenExpiresDate = new Date().setSeconds(
+            now.getSeconds() + newAuthData.refresh_expires_in
+          );
+
+          setAuthData(newAuthData);
+
+          localStorage.setItem("debug-auth", JSON.stringify(newAuthData));
+        } else if (newAuthData.error_description) {
+          setAuthError(newAuthData.error_description);
+        }
+      });
+    }
+  }, []);
+
+  React.useEffect(() => {
     if (!queryParams.code) {
       return;
     }
@@ -42,11 +92,22 @@ function Debug() {
         "content-type": "application/x-www-form-urlencoded",
         Authorization: AUTH_HEADER,
       },
-    }).then((authData) => {
-      if (authData.access_token) {
-        setAuthData(authData);
-      } else if (authData.error_description) {
-        setAuthError(authData.error_description);
+    }).then((newAuthData) => {
+      if (newAuthData.access_token) {
+        const now = new Date();
+
+        newAuthData.accessTokenExpiresDate = new Date().setSeconds(
+          now.getSeconds() + newAuthData.expires_in
+        );
+        newAuthData.refreshTokenExpiresDate = new Date().setSeconds(
+          now.getSeconds() + newAuthData.refresh_expires_in
+        );
+
+        setAuthData(newAuthData);
+
+        localStorage.setItem("debug-auth", JSON.stringify(newAuthData));
+      } else if (newAuthData.error_description) {
+        setAuthError(newAuthData.error_description);
       }
     });
   }, [queryParams.code]);
