@@ -141,7 +141,7 @@ function Debug() {
         console.log("selected membership", membership);
 
         return fetchJson(
-          `https://www.bungie.net/Platform/Destiny2/${membership.membershipType}/Profile/${membership.membershipId}/?components=Profiles,ProfileInventories,Characters,CharacterInventories,CharacterEquipment,ItemInstances,ItemObjectives,Records,CharacterActivities`,
+          `https://www.bungie.net/Platform/Destiny2/${membership.membershipType}/Profile/${membership.membershipId}/?components=Profiles,ProfileInventories,Characters,CharacterInventories,CharacterEquipment,ItemInstances,ItemObjectives,Records,CharacterActivities,PresentationNodes`,
           withHeaders(API_KEY, authData.access_token)
         );
       })
