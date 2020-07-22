@@ -7,7 +7,8 @@
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url https://ghostoverlay.com/",
     "build:scripts": "tsc",
-    "scripts": "node --experimental-specifier-resolution=node ./dist/run-all.js"
+    "scripts": "node --experimental-specifier-resolution=node ./dist/run-all.js",
+    "dev-scripts": "tsc && node --experimental-specifier-resolution=node"
   },
   "dependencies": {
     "@types/axios": "^0.14.0",
