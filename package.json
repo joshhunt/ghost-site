@@ -21,6 +21,7 @@
     "fs-extra": "^9.0.1",
     "lodash": "^4.17.15",
     "parcel": "^1.12.4",
+    "parcel-plugin-static-files-copy": "^2.4.3",
     "prettier": "^2.0.5",
     "query-string": "^6.13.0",
     "react": "^16.13.1",
@@ -32,6 +33,14 @@
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
+  },
+  "staticFiles": {
+    "staticPath": [
+      {
+        "staticPath": "generated-data",
+        "staticOutDir": "generated-data"
+      }
+    ]
   },
   "type": "module",
   "license": "MIT",

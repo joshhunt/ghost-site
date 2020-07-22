@@ -28,7 +28,12 @@ jobs:
         id: changes-check
         run: echo ::set-output name=dirty::"$(git status --porcelain)"
 
+      - name: Build site
+        if: steps.changes-check.outputs.dirty
+        run: yarn run build
+
       - name: Get manifest version file
+        if: steps.changes-check.outputs.dirty
         id: manifest-version
         run: echo "::set-output name=contents::$(cat ./generated-data/version.json)"
 
