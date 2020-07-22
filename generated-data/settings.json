@@ -19,22 +19,22 @@
             "icon": "ms-appx:///Assets/QuestTraitIcons/new_light.png"
         },
         "quest.new_light": {
-            "name": "ms-appx:///Assets/QuestTraitIcons/new_light.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/new_light.png"
         },
         "quest.current_release": {
-            "name": "ms-appx:///Assets/QuestTraitIcons/current_release.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/current_release.png"
         },
         "quest.seasonal": {
-            "name": "ms-appx:///Assets/QuestTraitIcons/seasonal.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/seasonal.png"
         },
         "quest.playlists": {
-            "name": "ms-appx:///Assets/QuestTraitIcons/playlists.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/playlists.png"
         },
         "quest.exotic": {
-            "name": "ms-appx:///Assets/QuestTraitIcons/exotic.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/exotic.png"
         },
         "quest.past": {
-            "name": "ms-appx:///Assets/QuestTraitIcons/past.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/past.png"
         },
         "__custom.solstice": {
             "name": "Solstice of Heroes",
