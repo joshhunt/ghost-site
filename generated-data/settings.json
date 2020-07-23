@@ -8,11 +8,11 @@
     "traitData": {
         "inventory_filtering.quest": {
             "name": "All Quests",
-            "icon": "ms-appx:///Assets/QuestTraitIcons/bounties.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/quests.png"
         },
         "inventory_filtering.bounty": {
             "name": "Bounties",
-            "icon": "ms-appx:///Assets/QuestTraitIcons/quests.png"
+            "icon": "ms-appx:///Assets/QuestTraitIcons/bounties.png"
         },
         "inventory_filtering.quest.featured": {
             "name": "Featured Quests",
