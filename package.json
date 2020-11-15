@@ -11,13 +11,14 @@
     "dev-scripts": "tsc && node --experimental-specifier-resolution=node"
   },
   "dependencies": {
+    "@d2api/manifest": "^1.0.1",
     "@types/axios": "^0.14.0",
     "@types/fs-extra": "^9.0.1",
     "@types/lodash": "^4.14.155",
     "@types/prettier": "^2.0.1",
     "axios": "^0.19.2",
     "bungie-api-ts": "^4.1.0",
-    "destiny2-manifest": "joshhunt/destiny2-manifest#language",
+    "cross-fetch": "^3.0.6",
     "fs-extra": "^9.0.1",
     "lodash": "^4.17.15",
     "parcel": "^1.12.4",

@@ -1,11 +1,8 @@
-import manifest from "destiny2-manifest/lib/node";
+import manifest from "@d2api/manifest/node";
 import fs from "fs-extra";
 import prettier from "prettier";
 import _ from "lodash";
-import {
-  manifestMetadataPromise,
-  ManifestLanguage,
-} from "destiny2-manifest/lib";
+import { manifestMetadataPromise, ManifestLanguage } from "@d2api/manifest";
 
 const API_KEY = "c3e5fac733944b058c558a0a0ef15a34";
 
