@@ -22,10 +22,10 @@
             "icon": "ms-appx:///Assets/QuestTraitIcons/new_light.png"
         },
         "quest.current_release": {
-            "icon": "ms-appx:///Assets/QuestTraitIcons/current_release.png"
+            "icon": "https://raw.githubusercontent.com/joshhunt/ghost-site/master/generated-data/assets/beyond-light.png"
         },
         "quest.seasonal": {
-            "icon": "ms-appx:///Assets/QuestTraitIcons/seasonal.png"
+            "icon": "https://raw.githubusercontent.com/joshhunt/ghost-site/master/generated-data/assets/hunt.png"
         },
         "quest.playlists": {
             "icon": "ms-appx:///Assets/QuestTraitIcons/playlists.png"
