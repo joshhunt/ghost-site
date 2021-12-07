@@ -131,6 +131,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Special Grenade Launcher]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Sword]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -139,11 +144,6 @@
       "localisedIconLabel": "[Stasis: Glyph 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Special Grenade Launcher]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Stasis: Glyph 3 Locked]",
@@ -313,6 +313,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Lance-grenade à munitions spéciales]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Épée]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -321,11 +326,6 @@
       "localisedIconLabel": "[Stase : sceau 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Lance-grenade à munitions spéciales]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Stase : sceau 3 bloqué]",
@@ -490,6 +490,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Lanzagranadas especial]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Espada]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -498,11 +503,6 @@
       "localisedIconLabel": "[Estasis: Sello 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Lanzagranadas especial]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Estasis: Sello 3 bloqueado]",
@@ -667,6 +667,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Lanzagranadas de munición especial]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Espada]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -675,11 +680,6 @@
       "localisedIconLabel": "[Estasis: Glifo 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Lanzagranadas de munición especial]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Estasis: Glifo 3 bloqueado]",
@@ -849,6 +849,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Spezial-Granatenwerfer]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Schwert]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -857,11 +862,6 @@
       "localisedIconLabel": "[Stasis: Siegel 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Spezial-Granatenwerfer]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Stasis: Siegel 3 gesperrt]",
@@ -1026,6 +1026,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Spada]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -1034,11 +1039,6 @@
       "localisedIconLabel": "[Stasi: sigillo 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Stasi: sigillo 3 bloccato]",
@@ -1208,6 +1208,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[特殊グレネードランチャー]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[剣]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -1216,11 +1221,6 @@
       "localisedIconLabel": "[ステイシス: 封印0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[特殊グレネードランチャー]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[ステイシス: 封印3未解除]",
@@ -1385,6 +1385,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Lança-granadas Especial]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Espada]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -1393,11 +1398,6 @@
       "localisedIconLabel": "[Estase: Símbolo 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Lança-granadas Especial]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Estase: Símbolo 3 bloqueado]",
@@ -1567,6 +1567,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Гранатомет с особыми боеприпасами]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Меч]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -1575,11 +1580,6 @@
       "localisedIconLabel": "[Стазис: Печать 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Гранатомет с особыми боеприпасами]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Стазис: Печать 3 разблокирована]",
@@ -1749,6 +1749,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[Granatnik na amunicję specjalną]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[Miecz]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -1757,11 +1762,6 @@
       "localisedIconLabel": "[Staza: Glif 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[Granatnik na amunicję specjalną]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[Staza: Glif 3 – zablokowane]",
@@ -1926,6 +1926,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "[특수 화기 유탄 발사기]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "[검]",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -1934,11 +1939,6 @@
       "localisedIconLabel": "[시공: 상형문자 0]",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "[특수 화기 유탄 발사기]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "[시공: 상형문자 3 잠김]",
@@ -2108,6 +2108,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -2116,11 +2121,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "",
@@ -2290,6 +2290,11 @@
       "objectiveHash": 781144468
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1217177904
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1260068656
@@ -2298,11 +2303,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1397002441
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1408767523
     },
     {
       "localisedIconLabel": "",
