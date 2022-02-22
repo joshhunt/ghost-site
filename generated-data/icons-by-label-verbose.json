@@ -1,11 +1,6 @@
 {
   "en": [
     {
-      "localisedIconLabel": "[Currency]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Rocket Launcher]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -14,16 +9,6 @@
       "localisedIconLabel": "[Void]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Linear Fusion Rifle]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Bow]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Grenade Launcher]",
@@ -41,14 +26,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Sniper Rifle]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Auto Rifle]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Scout Rifle]",
@@ -76,11 +56,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Kill]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Headshot]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -91,14 +66,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Fusion Rifle]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Sidearm]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Pulse Rifle]",
@@ -111,14 +81,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Sniper Rifle]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Small Blocker]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fusion Rifle]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Hand Cannon]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Trace Rifle]",
@@ -128,7 +108,17 @@
     {
       "localisedIconLabel": "[Machine Gun]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Bow]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[Glaive]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Special Grenade Launcher]",
@@ -161,6 +151,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Linear Fusion Rifle]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Large Blocker]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -183,11 +178,6 @@
   ],
   "fr": [
     {
-      "localisedIconLabel": "[Monnaie]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Lance-roquettes]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -196,16 +186,6 @@
       "localisedIconLabel": "[Abyssal]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Fusil à fusion linéaire]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Arc]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Lance-grenades]",
@@ -223,14 +203,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Fusil de précision]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Fusil automatique]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Fusil d'éclaireur]",
@@ -258,11 +233,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Frag]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Tirs de précision]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -273,14 +243,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Fusil à fusion]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Pistolet]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Fusil à impulsion]",
@@ -293,14 +258,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Fusil de précision]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Petit Bloqueur]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fusil à fusion]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Revolver]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Fusil à rayon]",
@@ -310,7 +285,17 @@
     {
       "localisedIconLabel": "[Mitrailleuse]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Arc]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[Glaive]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Lance-grenade à munitions spéciales]",
@@ -343,6 +328,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Fusil à fusion linéaire]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Grand Bloqueur]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -365,11 +355,6 @@
   ],
   "es": [
     {
-      "localisedIconLabel": "[Divisa]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Lanzacohetes]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -378,16 +363,6 @@
       "localisedIconLabel": "[Vacío]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Fusil de fusión lineal]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Lanzagranadas]",
@@ -405,19 +380,19 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Fusil de francotirador]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Fusil automático]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Fusil de explorador]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -435,11 +410,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Baja]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Tiro a la cabeza]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -450,14 +420,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Fusil de fusión]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Pistola]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Fusil de pulsos]",
@@ -470,14 +435,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Fusil de francotirador]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Bloqueador pequeño]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fusil de fusión]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Cañón de mano]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Fusil de rastreo]",
@@ -487,7 +462,12 @@
     {
       "localisedIconLabel": "[Ametralladora]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Guja]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Lanzagranadas especial]",
@@ -520,6 +500,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Fusil de fusión lineal]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Bloqueador grande]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -542,11 +527,6 @@
   ],
   "es-mx": [
     {
-      "localisedIconLabel": "[Divisa]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Lanzacohetes]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -555,16 +535,6 @@
       "localisedIconLabel": "[Vacío]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Fusil de fusión lineal]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Lanzagranadas]",
@@ -582,19 +552,19 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Fusil de francotirador]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Fusil automático]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Fusil de explorador]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -612,11 +582,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Baja]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Disparo a la cabeza]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -627,14 +592,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Fusil de fusión]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Pistola]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Fusil de pulsos]",
@@ -647,14 +607,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Fusil de francotirador]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Bloqueador pequeño]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fusil de fusión]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Cañón de mano]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Fusil rastreador]",
@@ -664,7 +634,12 @@
     {
       "localisedIconLabel": "[Ametralladora]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Guja]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Lanzagranadas de munición especial]",
@@ -697,6 +672,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Fusil de fusión lineal]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Bloqueador grande]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -719,11 +699,6 @@
   ],
   "de": [
     {
-      "localisedIconLabel": "[Währung]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Raketenwerfer]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -732,16 +707,6 @@
       "localisedIconLabel": "[Leere]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Linear-Fusionsgewehr]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Bogen]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Granatenwerfer]",
@@ -759,14 +724,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Scharfschützengewehr]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Automatikgewehr]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Scout-Gewehr]",
@@ -794,11 +754,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Kill]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Helmtreffer ]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -809,14 +764,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Fusionsgewehr]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Pistole]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Impulsgewehr]",
@@ -829,14 +779,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Scharfschützengewehr]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Kleiner Blocker]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fusionsgewehr]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Handfeuerwaffe]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Spurgewehr]",
@@ -846,7 +806,17 @@
     {
       "localisedIconLabel": "[Maschinengewehr]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Bogen]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[Glefe]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Spezial-Granatenwerfer]",
@@ -879,6 +849,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Linear-Fusionsgewehr]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Großer Blocker]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -901,11 +876,6 @@
   ],
   "it": [
     {
-      "localisedIconLabel": "[Valuta]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Lanciarazzi]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -914,16 +884,6 @@
       "localisedIconLabel": "[Vuoto]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Fucile a fusione lineare]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Lanciagranate]",
@@ -941,19 +901,19 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Fucile di precisione]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Fucile automatico]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Fucile da ricognizione]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solare]",
@@ -971,11 +931,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Uccisione]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Colpo alla testa]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -986,14 +941,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Fucile a fusione]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Arma da supporto]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Fucile a impulsi]",
@@ -1006,14 +956,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Fucile di precisione]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Assediante piccolo]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fucile a fusione]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Cannone portatile]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Fucile laser]",
@@ -1023,7 +983,12 @@
     {
       "localisedIconLabel": "[Mitragliatrice]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Falcione]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
@@ -1056,6 +1021,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Fucile a fusione lineare]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Assediante grande]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -1078,11 +1048,6 @@
   ],
   "ja": [
     {
-      "localisedIconLabel": "[通貨]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[ロケットランチャー]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -1091,16 +1056,6 @@
       "localisedIconLabel": "[ボイド]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[リニア・フュージョンライフル]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[弓]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[グレネードランチャー]",
@@ -1118,14 +1073,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[スナイパーライフル]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[オートライフル]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[スカウトライフル]",
@@ -1153,11 +1103,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[キル]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[ヘッドショット]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -1168,14 +1113,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[フュージョンライフル]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[ピストル]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[パルスライフル]",
@@ -1188,14 +1128,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[スナイパーライフル]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[小型ブロッカー]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[フュージョンライフル]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[ハンドキャノン]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[トレースライフル]",
@@ -1205,7 +1155,17 @@
     {
       "localisedIconLabel": "[マシンガン]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[弓]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[グレイブ]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[特殊グレネードランチャー]",
@@ -1238,6 +1198,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[リニア・フュージョンライフル]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[大型ブロッカー]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -1260,11 +1225,6 @@
   ],
   "pt-br": [
     {
-      "localisedIconLabel": "[Moeda]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Lança-foguetes]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -1273,16 +1233,6 @@
       "localisedIconLabel": "[Vácuo]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Fuzil de Fusão Linear]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Lança-granadas]",
@@ -1300,19 +1250,19 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Rifle de precisão]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Fuzil automático]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Fuzil de batedor]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -1330,24 +1280,14 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Baixa]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Tiro Preciso]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
     },
     {
-      "localisedIconLabel": "[Fuzil de fusão]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Pistola]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Fuzil de Pulso]",
@@ -1360,9 +1300,9 @@
       "objectiveHash": 212380697
     },
     {
-      "localisedIconLabel": "[Jornada]",
-      "unicodeSymbol": "",
-      "objectiveHash": 230508457
+      "localisedIconLabel": "[Rifle de precisão]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Estorvo pequeno]",
@@ -1370,9 +1310,14 @@
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Fuzil de fusão]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Canhão de mão]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Fuzil de laser]",
@@ -1382,7 +1327,12 @@
     {
       "localisedIconLabel": "[Metralhadora]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Gládio]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Lança-granadas Especial]",
@@ -1415,6 +1365,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Fuzil de Fusão Linear]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Estorvo grande]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -1437,11 +1392,6 @@
   ],
   "ru": [
     {
-      "localisedIconLabel": "[Валюта]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Ракетная установка]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -1450,16 +1400,6 @@
       "localisedIconLabel": "[Пустота]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Линейная плазменная винтовка]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Лук]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Гранатомет]",
@@ -1477,14 +1417,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Снайперская винтовка]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Автомат]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Винтовка разведчика]",
@@ -1512,11 +1447,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Убийство]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Убийство прицельным выстрелом в голову]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -1527,14 +1457,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Плазменная винтовка]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Пистолет]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Импульсная винтовка]",
@@ -1547,14 +1472,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Снайперская винтовка]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Маленький защитник]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Плазменная винтовка]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Револьвер]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Лучевая винтовка]",
@@ -1564,7 +1499,17 @@
     {
       "localisedIconLabel": "[Пулемет]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Лук]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[Глефа]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Гранатомет с особыми боеприпасами]",
@@ -1597,6 +1542,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Линейная плазменная винтовка]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Большой защитник]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -1619,11 +1569,6 @@
   ],
   "pl": [
     {
-      "localisedIconLabel": "[Waluta]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[Wyrzutnia rakiet]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -1632,16 +1577,6 @@
       "localisedIconLabel": "[Próżniowe]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[Liniowy karabin fuzyjny]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[Łuk]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[Granatnik]",
@@ -1659,14 +1594,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[Karabin snajperski]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[Karabin automatyczny]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[Karabin zwiadowczy]",
@@ -1694,11 +1624,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[Zabójstwo]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[Strzał w głowę]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -1709,14 +1634,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[Karabin fuzyjny]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[Broń boczna]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[Karabin pulsacyjny]",
@@ -1729,14 +1649,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Karabin snajperski]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[Mały bloker]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[Karabin fuzyjny]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[Rewolwer]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[Karabin wiązkowy]",
@@ -1746,7 +1676,17 @@
     {
       "localisedIconLabel": "[Karabin maszynowy]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[Łuk]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[Glewia]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[Granatnik na amunicję specjalną]",
@@ -1779,6 +1719,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[Liniowy karabin fuzyjny]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[Duży bloker]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -1796,11 +1741,6 @@
   ],
   "ko": [
     {
-      "localisedIconLabel": "[화폐]",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "[로켓 발사기]",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -1809,16 +1749,6 @@
       "localisedIconLabel": "[공허]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "[선형 융합 소총]",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "[활]",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "[유탄 발사기]",
@@ -1836,14 +1766,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "[저격총]",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "[자동 소총]",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "[정찰 소총]",
@@ -1871,11 +1796,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "[처치]",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "[헤드샷]",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -1886,14 +1806,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "[융합 소총]",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "[보조 무기]",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "[파동 소총]",
@@ -1906,14 +1821,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[저격총]",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "[소형 방해꾼]",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "[융합 소총]",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "[핸드 캐논]",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "[추적 소총]",
@@ -1923,7 +1848,17 @@
     {
       "localisedIconLabel": "[기관총]",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "[활]",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "[월도]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "[특수 화기 유탄 발사기]",
@@ -1956,6 +1891,11 @@
       "objectiveHash": 1857129539
     },
     {
+      "localisedIconLabel": "[선형 융합 소총]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
+    },
+    {
       "localisedIconLabel": "[대형 방해꾼]",
       "unicodeSymbol": "",
       "objectiveHash": 2031240843
@@ -1978,11 +1918,6 @@
   ],
   "zh-cht": [
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -1991,16 +1926,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "",
@@ -2018,14 +1943,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "",
@@ -2053,11 +1973,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -2068,14 +1983,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "",
@@ -2088,14 +1998,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "",
@@ -2105,7 +2025,17 @@
     {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "",
@@ -2136,6 +2066,11 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
     },
     {
       "localisedIconLabel": "",
@@ -2160,11 +2095,6 @@
   ],
   "zh-chs": [
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 5982754
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 13215836
@@ -2173,16 +2103,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 33967121
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 36795045
     },
     {
       "localisedIconLabel": "",
@@ -2200,14 +2120,9 @@
       "objectiveHash": 45245118
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 55815981
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 60057218
+      "objectiveHash": 49808967
     },
     {
       "localisedIconLabel": "",
@@ -2235,11 +2150,6 @@
       "objectiveHash": 102976778
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 114960131
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 116015535
@@ -2250,14 +2160,9 @@
       "objectiveHash": 119206183
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 135682758
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 139630754
+      "objectiveHash": 141911950
     },
     {
       "localisedIconLabel": "",
@@ -2270,14 +2175,24 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 273389628
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 276438067
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 579143207
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 557968429
+      "objectiveHash": 671993070
     },
     {
       "localisedIconLabel": "",
@@ -2287,7 +2202,17 @@
     {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
-      "objectiveHash": 781144468
+      "objectiveHash": 781670288
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 817189956
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1089624989
     },
     {
       "localisedIconLabel": "",
@@ -2318,6 +2243,11 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1878887814
     },
     {
       "localisedIconLabel": "",
