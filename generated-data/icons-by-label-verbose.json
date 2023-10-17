@@ -51,6 +51,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Sniper Rifle]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[SMG]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -79,11 +84,6 @@
       "localisedIconLabel": "[Shotgun]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Sniper Rifle]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fusion Rifle]",
@@ -213,6 +213,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Fusil de précision]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[Pistolet-mitrailleur]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -241,11 +246,6 @@
       "localisedIconLabel": "[Fusil à pompe]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Fusil de précision]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fusil à fusion]",
@@ -375,6 +375,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Fusil de francotirador]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[Subfusil]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -403,11 +408,6 @@
       "localisedIconLabel": "[Escopeta]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Fusil de francotirador]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fusil de fusión]",
@@ -532,6 +532,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Fusil de francotirador]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[Subfusil]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -560,11 +565,6 @@
       "localisedIconLabel": "[Escopeta]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Fusil de francotirador]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fusil de fusión]",
@@ -689,6 +689,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Scharfschützengewehr]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[MP]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -717,11 +722,6 @@
       "localisedIconLabel": "[Schrotflinte]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Scharfschützengewehr]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fusionsgewehr]",
@@ -851,6 +851,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Fucile di precisione]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[Mitraglietta]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -879,11 +884,6 @@
       "localisedIconLabel": "[Fucile a pompa]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Fucile di precisione]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fucile a fusione]",
@@ -1008,6 +1008,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[スナイパーライフル]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[サブマシンガン]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1036,11 +1041,6 @@
       "localisedIconLabel": "[ショットガン]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[スナイパーライフル]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[フュージョンライフル]",
@@ -1170,6 +1170,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Rifle de precisão]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[Submetralhadora]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1193,11 +1198,6 @@
       "localisedIconLabel": "[Escopeta]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Rifle de precisão]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Fuzil de fusão]",
@@ -1322,6 +1322,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Снайперская винтовка]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[ПП]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1350,11 +1355,6 @@
       "localisedIconLabel": "[Дробовик]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Снайперская винтовка]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Плазменная винтовка]",
@@ -1484,6 +1484,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[Karabin snajperski]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[Pistolet maszynowy]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1512,11 +1517,6 @@
       "localisedIconLabel": "[Strzelba]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[Karabin snajperski]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[Karabin fuzyjny]",
@@ -1641,6 +1641,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "[저격총]",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "[기관단총]",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1669,11 +1674,6 @@
       "localisedIconLabel": "[산탄총]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "[저격총]",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "[융합 소총]",
@@ -1803,6 +1803,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1831,11 +1836,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "",
@@ -1965,6 +1965,11 @@
       "objectiveHash": 85761957
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 90309638
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 102976778
@@ -1993,11 +1998,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 273389628
     },
     {
       "localisedIconLabel": "",
