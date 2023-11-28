@@ -6,11 +6,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Arc]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Void]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -39,6 +34,11 @@
       "localisedIconLabel": "[Scout Rifle]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arc]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -86,6 +86,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Sword]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fusion Rifle]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -119,11 +124,6 @@
       "localisedIconLabel": "[Special Grenade Launcher]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Sword]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Stasis: Glyph 0]",
@@ -168,11 +168,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Cryo-électrique]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Abyssal]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -201,6 +196,11 @@
       "localisedIconLabel": "[Fusil d'éclaireur]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Cryo-électrique]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solaire]",
@@ -248,6 +248,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Épée]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fusil à fusion]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -281,11 +286,6 @@
       "localisedIconLabel": "[Lance-grenade à munitions spéciales]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Épée]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Stase : sceau 0]",
@@ -330,11 +330,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Vacío]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -363,6 +358,11 @@
       "localisedIconLabel": "[Fusil de explorador]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -410,6 +410,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Espada]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fusil de fusión]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -438,11 +443,6 @@
       "localisedIconLabel": "[Lanzagranadas especial]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Espada]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Estasis: Sello 0]",
@@ -487,11 +487,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Vacío]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -520,6 +515,11 @@
       "localisedIconLabel": "[Fusil de explorador]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -567,6 +567,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Espada]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fusil de fusión]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -595,11 +600,6 @@
       "localisedIconLabel": "[Lanzagranadas de munición especial]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Espada]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Estasis: Glifo 0]",
@@ -644,11 +644,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Arkus]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Leere]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -677,6 +672,11 @@
       "localisedIconLabel": "[Scout-Gewehr]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arkus]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -724,6 +724,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Schwert]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fusionsgewehr]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -757,11 +762,6 @@
       "localisedIconLabel": "[Spezial-Granatenwerfer]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Schwert]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Stasis: Siegel 0]",
@@ -806,11 +806,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Vuoto]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -839,6 +834,11 @@
       "localisedIconLabel": "[Fucile da ricognizione]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solare]",
@@ -886,6 +886,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Spada]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fucile a fusione]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -914,11 +919,6 @@
       "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Spada]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Stasi: sigillo 0]",
@@ -963,11 +963,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[アーク]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[ボイド]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -996,6 +991,11 @@
       "localisedIconLabel": "[スカウトライフル]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[アーク]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[ソーラー]",
@@ -1043,6 +1043,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[剣]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[フュージョンライフル]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -1076,11 +1081,6 @@
       "localisedIconLabel": "[特殊グレネードランチャー]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[剣]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[ステイシス: 封印0]",
@@ -1125,11 +1125,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Arco]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Vácuo]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -1158,6 +1153,11 @@
       "localisedIconLabel": "[Fuzil de batedor]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Arco]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Solar]",
@@ -1200,6 +1200,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Espada]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Fuzil de fusão]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -1228,11 +1233,6 @@
       "localisedIconLabel": "[Lança-granadas Especial]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Espada]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Estase: Símbolo 0]",
@@ -1277,11 +1277,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Молния]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Пустота]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -1310,6 +1305,11 @@
       "localisedIconLabel": "[Винтовка разведчика]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Молния]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Солнце]",
@@ -1357,6 +1357,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Меч]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Плазменная винтовка]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -1390,11 +1395,6 @@
       "localisedIconLabel": "[Гранатомет с особыми боеприпасами]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Меч]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Стазис: Печать 0]",
@@ -1439,11 +1439,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[Elektryczne]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[Próżniowe]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -1472,6 +1467,11 @@
       "localisedIconLabel": "[Karabin zwiadowczy]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[Elektryczne]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[Słoneczne]",
@@ -1519,6 +1519,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Miecz]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[Karabin fuzyjny]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -1552,11 +1557,6 @@
       "localisedIconLabel": "[Granatnik na amunicję specjalną]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[Miecz]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[Staza: Glif 0]",
@@ -1596,11 +1596,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "[전기]",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "[공허]",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -1629,6 +1624,11 @@
       "localisedIconLabel": "[정찰 소총]",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "[전기]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "[태양]",
@@ -1676,6 +1676,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[검]",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "[융합 소총]",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -1709,11 +1714,6 @@
       "localisedIconLabel": "[특수 화기 유탄 발사기]",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "[검]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "[시공: 상형문자 0]",
@@ -1758,11 +1758,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -1791,6 +1786,11 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "",
@@ -1838,6 +1838,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -1871,11 +1876,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "",
@@ -1920,11 +1920,6 @@
       "objectiveHash": 13215836
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 19991929
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 33657378
@@ -1953,6 +1948,11 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 75057024
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535852
     },
     {
       "localisedIconLabel": "",
@@ -2000,6 +2000,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 298568270
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 579143207
@@ -2033,11 +2038,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1217177904
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1250089450
     },
     {
       "localisedIconLabel": "",
