@@ -31,6 +31,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Strand]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[SMG]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -46,14 +51,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solar]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Arc]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solar]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Sniper Rifle]",
@@ -193,6 +198,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Filobscur]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[Pistolet-mitrailleur]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -208,14 +218,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solaire]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Cryo-électrique]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solaire]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Fusil de précision]",
@@ -355,6 +365,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Atadura]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[Subfusil]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -370,14 +385,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solar]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Arco]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solar]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Fusil de francotirador]",
@@ -512,6 +527,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Cuerdas]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[Subfusil]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -527,14 +547,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solar]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Arco]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solar]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Fusil de francotirador]",
@@ -669,6 +689,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Strang]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[MP]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -684,14 +709,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solar]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Arkus]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solar]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Scharfschützengewehr]",
@@ -831,6 +856,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Telascura]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[Mitraglietta]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -846,14 +876,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solare]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Arco]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solare]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Fucile di precisione]",
@@ -988,6 +1018,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[ストランド]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[サブマシンガン]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1003,14 +1038,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[ソーラー]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[アーク]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[ソーラー]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[スナイパーライフル]",
@@ -1150,6 +1185,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Filamento]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[Submetralhadora]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1165,14 +1205,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Solar]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Arco]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Solar]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Rifle de precisão]",
@@ -1302,6 +1342,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Нить]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[ПП]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1317,14 +1362,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Солнце]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Молния]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Солнце]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Снайперская винтовка]",
@@ -1464,6 +1509,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[Pasmo]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[Pistolet maszynowy]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1479,14 +1529,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[Słoneczne]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[Elektryczne]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[Słoneczne]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[Karabin snajperski]",
@@ -1621,6 +1671,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "[초월]",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "[기관단총]",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1636,14 +1691,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "[태양]",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "[전기]",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "[태양]",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "[저격총]",
@@ -1783,6 +1838,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1798,14 +1858,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "",
@@ -1945,6 +2005,11 @@
       "objectiveHash": 45245118
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 46977068
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 55461852
@@ -1960,14 +2025,14 @@
       "objectiveHash": 59256363
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 76012872
-    },
-    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 76026731
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 85535853
     },
     {
       "localisedIconLabel": "",
