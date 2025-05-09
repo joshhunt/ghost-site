@@ -20,7 +20,7 @@
     "bungie-api-ts": "^4.1.0",
     "cross-fetch": "^3.0.6",
     "fs-extra": "^9.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "parcel": "^1.12.4",
     "parcel-plugin-static-files-copy": "^2.4.3",
     "prettier": "^2.0.5",
