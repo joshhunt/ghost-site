@@ -71,6 +71,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Stasis]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Sniper Rifle]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -104,11 +109,6 @@
       "localisedIconLabel": "[Glaive]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Stasis]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Bow]",
@@ -228,6 +228,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Stase]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Fusil de précision]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -261,11 +266,6 @@
       "localisedIconLabel": "[Glaive]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Stase]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Arc]",
@@ -385,6 +385,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Estasis]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Fusil de francotirador]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -418,11 +423,6 @@
       "localisedIconLabel": "[Guja]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Estasis]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Lanzagranadas especial]",
@@ -537,6 +537,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Estasis]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Fusil de francotirador]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -570,11 +575,6 @@
       "localisedIconLabel": "[Guja]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Estasis]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Lanzagranadas de munición especial]",
@@ -689,6 +689,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Stasis]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Scharfschützengewehr]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -722,11 +727,6 @@
       "localisedIconLabel": "[Glefe]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Stasis]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Bogen]",
@@ -846,6 +846,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Stasi]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Fucile di precisione]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -879,11 +884,6 @@
       "localisedIconLabel": "[Falcione]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Stasi]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
@@ -998,6 +998,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[ステイシス]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[スナイパーライフル]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1031,11 +1036,6 @@
       "localisedIconLabel": "[グレイブ]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[ステイシス]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[弓]",
@@ -1150,6 +1150,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Estase]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Rifle de precisão]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1183,11 +1188,6 @@
       "localisedIconLabel": "[Gládio]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Estase]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Lança-granadas Especial]",
@@ -1302,6 +1302,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Стазис]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Снайперская винтовка]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1335,11 +1340,6 @@
       "localisedIconLabel": "[Глефа]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Стазис]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Лук]",
@@ -1459,6 +1459,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[Staza]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[Karabin snajperski]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1492,11 +1497,6 @@
       "localisedIconLabel": "[Glewia]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[Staza]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[Łuk]",
@@ -1616,6 +1616,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "[시공]",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "[저격총]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1649,11 +1654,6 @@
       "localisedIconLabel": "[월도]",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "[시공]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "[활]",
@@ -1773,6 +1773,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1806,11 +1811,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "",
@@ -1930,6 +1930,11 @@
       "objectiveHash": 212380697
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 236575053
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
@@ -1963,11 +1968,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1089624989
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1097409723
     },
     {
       "localisedIconLabel": "",
