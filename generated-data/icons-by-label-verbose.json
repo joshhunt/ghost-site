@@ -86,6 +86,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "[Strand]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "[Melee]",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -241,6 +246,11 @@
       "localisedIconLabel": "[Fusil de précision]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
+    },
+    {
+      "localisedIconLabel": "[Filobscur]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
     },
     {
       "localisedIconLabel": "[Mêlée]",
@@ -400,6 +410,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "[Atadura]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "[Cuerpo a cuerpo]",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -552,6 +567,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "[Cuerdas]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "[Cuerpo a cuerpo]",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -702,6 +722,11 @@
       "localisedIconLabel": "[Scharfschützengewehr]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
+    },
+    {
+      "localisedIconLabel": "[Strang]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
     },
     {
       "localisedIconLabel": "[Nahkampf]",
@@ -861,6 +886,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "[Telascura]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "[Corpo a corpo]",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -1011,6 +1041,11 @@
       "localisedIconLabel": "[スナイパーライフル]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
+    },
+    {
+      "localisedIconLabel": "[ストランド]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
     },
     {
       "localisedIconLabel": "[近接]",
@@ -1165,6 +1200,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "[Filamento]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "[Corpo a corpo]",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -1315,6 +1355,11 @@
       "localisedIconLabel": "[Снайперская винтовка]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
+    },
+    {
+      "localisedIconLabel": "[Нить]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
     },
     {
       "localisedIconLabel": "[Ближний бой]",
@@ -1474,6 +1519,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "[Pasmo]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "[Walka wręcz]",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -1629,6 +1679,11 @@
       "localisedIconLabel": "[저격총]",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
+    },
+    {
+      "localisedIconLabel": "[초월]",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
     },
     {
       "localisedIconLabel": "[근접]",
@@ -1788,6 +1843,11 @@
       "objectiveHash": 273389628
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 429378555
@@ -1943,6 +2003,11 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 273389628
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 289019406
     },
     {
       "localisedIconLabel": "",
