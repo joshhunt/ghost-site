@@ -71,6 +71,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Hand Cannon]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Shotgun]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -101,9 +106,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Hand Cannon]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Special Grenade Launcher]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -114,11 +119,6 @@
       "localisedIconLabel": "[Stasis]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Special Grenade Launcher]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Sword]",
@@ -159,6 +159,21 @@
       "localisedIconLabel": "[Stasis: Glyph 2 Locked]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Small Blocker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Medium Blocker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Large Blocker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "fr": [
@@ -233,6 +248,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Revolver]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Fusil à pompe]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -263,9 +283,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Revolver]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Lance-grenade à munitions spéciales]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -276,11 +296,6 @@
       "localisedIconLabel": "[Stase]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Lance-grenade à munitions spéciales]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Épée]",
@@ -321,6 +336,21 @@
       "localisedIconLabel": "[Stase : sceau 2 bloqué]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Petit Bloqueur]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Bloqueur moyen]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Grand Bloqueur]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "es": [
@@ -395,6 +425,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Cañón de mano]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Escopeta]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -425,9 +460,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Cañón de mano]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Lanzagranadas especial]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -438,11 +473,6 @@
       "localisedIconLabel": "[Estasis]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Lanzagranadas especial]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Espada]",
@@ -478,6 +508,21 @@
       "localisedIconLabel": "[Estasis: Sello 2 bloqueado]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Bloqueador pequeño]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Bloqueador mediano]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Bloqueador grande]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "es-mx": [
@@ -552,6 +597,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Cañón de mano]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Escopeta]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -582,9 +632,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Cañón de mano]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Lanzagranadas de munición especial]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -595,11 +645,6 @@
       "localisedIconLabel": "[Estasis]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Lanzagranadas de munición especial]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Espada]",
@@ -635,6 +680,21 @@
       "localisedIconLabel": "[Estasis: Glifo 2 bloqueado]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Bloqueador pequeño]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Bloqueador mediano]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Bloqueador grande]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "de": [
@@ -709,6 +769,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Handfeuerwaffe]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Schrotflinte]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -739,9 +804,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Handfeuerwaffe]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Spezial-Granatenwerfer]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -752,11 +817,6 @@
       "localisedIconLabel": "[Stasis]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Spezial-Granatenwerfer]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Schwert]",
@@ -797,6 +857,21 @@
       "localisedIconLabel": "[Stasis: Siegel 2 gesperrt]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Kleiner Blocker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Mittelgroßer Blocker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Großer Blocker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "it": [
@@ -871,6 +946,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Cannone portatile]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Fucile a pompa]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -901,9 +981,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Cannone portatile]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -914,11 +994,6 @@
       "localisedIconLabel": "[Stasi]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Lanciagranate con munizioni speciali]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Spada]",
@@ -954,6 +1029,21 @@
       "localisedIconLabel": "[Stasi: sigillo 2 bloccato]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Assediante piccolo]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Assediante medio]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Assediante grande]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "ja": [
@@ -1028,6 +1118,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[ハンドキャノン]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[ショットガン]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -1058,9 +1153,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[ハンドキャノン]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[特殊グレネードランチャー]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -1071,11 +1166,6 @@
       "localisedIconLabel": "[ステイシス]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[特殊グレネードランチャー]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[剣]",
@@ -1116,6 +1206,21 @@
       "localisedIconLabel": "[ステイシス: 封印2未解除]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[小型ブロッカー]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[中型ブロッカー]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[大型ブロッカー]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "pt-br": [
@@ -1185,6 +1290,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Canhão de mão]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Escopeta]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -1215,9 +1325,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Canhão de mão]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Lança-granadas Especial]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -1228,11 +1338,6 @@
       "localisedIconLabel": "[Estase]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Lança-granadas Especial]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Espada]",
@@ -1268,6 +1373,21 @@
       "localisedIconLabel": "[Estase: Símbolo 2 bloqueado]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Estorvo pequeno]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Estorvo médio]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Estorvo grande]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "ru": [
@@ -1342,6 +1462,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Револьвер]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Дробовик]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -1372,9 +1497,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Револьвер]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Гранатомет с особыми боеприпасами]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -1385,11 +1510,6 @@
       "localisedIconLabel": "[Стазис]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Гранатомет с особыми боеприпасами]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Меч]",
@@ -1430,6 +1550,21 @@
       "localisedIconLabel": "[Стазис: Печать 2 разблокирована]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Маленький защитник]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Средний защитник]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Большой защитник]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "pl": [
@@ -1504,6 +1639,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[Rewolwer]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[Strzelba]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -1534,9 +1674,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[Rewolwer]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[Granatnik na amunicję specjalną]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -1547,11 +1687,6 @@
       "localisedIconLabel": "[Staza]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[Granatnik na amunicję specjalną]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[Miecz]",
@@ -1592,6 +1727,21 @@
       "localisedIconLabel": "[Staza: Glif 2 – zablokowane]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[Mały bloker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[Średni bloker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[Duży bloker]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "ko": [
@@ -1666,6 +1816,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "[핸드 캐논]",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "[산탄총]",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -1696,9 +1851,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "[핸드 캐논]",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "[특수 화기 유탄 발사기]",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -1709,11 +1864,6 @@
       "localisedIconLabel": "[시공]",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "[특수 화기 유탄 발사기]",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "[검]",
@@ -1754,6 +1904,21 @@
       "localisedIconLabel": "[시공: 상형문자 2 잠김]",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "[소형 방해꾼]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "[중형 방해꾼]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "[대형 방해꾼]",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "zh-cht": [
@@ -1828,6 +1993,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -1858,9 +2028,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -1871,11 +2041,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "",
@@ -1916,6 +2081,21 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ],
   "zh-chs": [
@@ -1990,6 +2170,11 @@
       "objectiveHash": 189060104
     },
     {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 203409870
+    },
+    {
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 212380697
@@ -2020,9 +2205,9 @@
       "objectiveHash": 554293431
     },
     {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 563593850
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 1038793481
     },
     {
       "localisedIconLabel": "",
@@ -2033,11 +2218,6 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1097409723
-    },
-    {
-      "localisedIconLabel": "",
-      "unicodeSymbol": "",
-      "objectiveHash": 1217177904
     },
     {
       "localisedIconLabel": "",
@@ -2078,6 +2258,21 @@
       "localisedIconLabel": "",
       "unicodeSymbol": "",
       "objectiveHash": 1857129539
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537448
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537449
+    },
+    {
+      "localisedIconLabel": "",
+      "unicodeSymbol": "",
+      "objectiveHash": 3973537450
     }
   ]
 }
